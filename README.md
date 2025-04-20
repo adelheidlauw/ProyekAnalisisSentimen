@@ -3,8 +3,7 @@
 
 Proyek ini bertujuan untuk melakukan analisis sentimen terhadap ulasan pengguna aplikasi Grab ID. Proses dilakukan dari scraping data, preprocessing, pelatihan model, hingga evaluasi model analisis sentimen.
 
-## Struktur Proyek
-.
+## Struktur Proyek/
 ├── Kode_Scraping_Proyek_Analisis_Sentimen_Adelheid_Chantal_Lauw.ipynb        # Notebook untuk web scraping data.
 ├── Notebook_Pelatihan_Proyek_Analisis_Sentimen_Adelheid_Chantal_Lauw.ipynb   # Notebook untuk pelatihan model machine learning
 ├── requirements.txt                                                          # Daftar library yang dibutuhkan untuk menjalankan proyek
