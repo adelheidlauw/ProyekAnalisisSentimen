@@ -11,16 +11,16 @@ Proyek ini bertujuan untuk melakukan analisis sentimen terhadap ulasan pengguna 
 ├── Grab_app_reviews.csv                                                      # Dataset ulasan
 ```
 Penjelasan file:
-- Kode_Scraping_Proyek_Analisis_Sentimen_Adelheid_Chantal_Lauw.ipynb:
+- Kode_Scraping_Proyek_Analisis_Sentimen_Adelheid_Chantal_Lauw.ipynb: <br>
   Notebook ini berisi kode untuk melakukan scraping data dari situs tertentu. Data yang dikumpulkan akan digunakan sebagai bahan untuk pelatihan     model.
-- Notebook_Pelatihan_Proyek_Analisis_Sentimen_Adelheid_Chantal_Lauw.ipynb
+- Notebook_Pelatihan_Proyek_Analisis_Sentimen_Adelheid_Chantal_Lauw.ipynb: <br>
   Berisi proses pembersihan data, eksplorasi data, dan pelatihan model machine learning.
-- requirements.txt
+- requirements.txt: <br>
   File ini berisi daftar dependensi Python yang dibutuhkan untuk menjalankan seluruh notebook. Dapat di-install dengan perintah:
   ```
   pip install -r requirements.txt
   ```
-- Grab_app_reviews.csv
+- Grab_app_reviews.csv: <br>
   Dataset hasil dari scraping data yang digunakan pada model pelatihan.
 
 ## Cara Menjalankan Proyek
